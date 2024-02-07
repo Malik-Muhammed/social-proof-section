@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Malik-Muhammed/social-proof-section)
-- Live Site URL:()
+- Live Site URL:(https://social-proof-section-eta-eight.vercel.app/)
 
 ## My process
 

@@ -89,7 +89,7 @@ main {
 }
 
 .testimonial {
-  background-color: rgb(80, 32, 80);
+  background-color: hsl(300, 43%, 22%);
   border-radius: 8px;
   padding: 2.2rem 2rem;
   margin-top: 17px;
